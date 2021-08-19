@@ -6,7 +6,7 @@ A blockchain-based decentralized election app coded using Solidity, React Hooks,
 
 - Latest NPM and Node JS (from https://www.npmjs.com/get-npm)
 - Latest Truffle suite (run ```npm install -g truffle``` for installation)
-- Local or real Blockchain connected to a wallet (a combination of Ganache and MetaMast works well)
+- Local or real Blockchain connected to a wallet (a combination of Ganache and MetaMask works well)
 
 # Installation
 
